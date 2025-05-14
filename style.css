@@ -67,5 +67,20 @@ ul {
   margin-top: 10px;
   padding-left: 20px;
 }
+.seksion-ndihmes {
+  background-color: #f0f4ff;
+  border-left: 6px solid #4a90e2;
+  padding: 20px;
+  margin-top: 30px;
+  border-radius: 10px;
+  font-size: 16px;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.08);
+}
+
+.seksion-ndihmes h2 {
+  margin-top: 0;
+  color: #2c3e50;
+}
+
 update style.css
   
